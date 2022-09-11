@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.general {
+    margin: auto;
+    margin-top: 70px;
+    width: 1100px;
+    height: 650px;
+    background-color: gray;
+    float: inline-end;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.estudiante1 {
+    width: 300px;
+    height: 500px;
+    background-color: whitesmoke;
+}
+
+.estudiante2 {
+    
+    margin: 50px;
+    width: 300px;
+    height: 500px;
+    background-color: whitesmoke;
+}
+
+.estudiante3 {
+    width: 300px;
+    height: 500px;
+    background-color: whitesmoke;
+}
